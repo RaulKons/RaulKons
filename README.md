@@ -5,8 +5,11 @@
 
 <br>
 
-![Raul GitHub stats](https://github-readme-stats.vercel.app/api?username=RaulCarloss&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulCarloss&layout=compact)](https://github.com/RaulCarloss/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/MarcusMix">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RaulCarloss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulCarloss&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## Tecnologias
 
@@ -22,3 +25,5 @@
 
  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raulcarlosconceição)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raullcarloss)
+ 
+

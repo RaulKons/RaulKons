@@ -6,7 +6,6 @@
 <br>
 
 ![Raul GitHub stats](https://github-readme-stats.vercel.app/api?username=RaulCarloss&show_icons=true&theme=dracula)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulCarloss&layout=compact)](https://github.com/RaulCarloss/github-readme-stats)
 
 ## Tecnologias
